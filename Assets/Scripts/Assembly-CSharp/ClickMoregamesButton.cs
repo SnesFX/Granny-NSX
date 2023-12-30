@@ -1,5 +1,6 @@
 using System;
 using UnityEngine;
+using UnityEngine.UI;
 
 [Serializable]
 public class ClickMoregamesButton : MonoBehaviour
@@ -19,7 +20,7 @@ public class ClickMoregamesButton : MonoBehaviour
 		if (Input.touchCount > 0)
 		{
 			Vector2 position = Input.GetTouch(0).position;
-			if (GetComponent<GUITexture>().HitTest(position))
+			if (GetComponent<Image>() != null)
 			{
 				buttonPressed = true;
 				base.transform.localPosition = new Vector3(-0.25f, -0.17f, 2f);

@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 [Serializable]
 public class ControlMenu : MonoBehaviour
@@ -44,11 +45,10 @@ public class ControlMenu : MonoBehaviour
 		for (int i = 0; i < Input.touchCount; i++)
 		{
 			Touch touch = Input.GetTouch(i);
-			if (touch.phase == TouchPhase.Began && GetComponent<GUITexture>().HitTest(touch.position))
+			if (touch.phase == TouchPhase.Began)
 			{
 				display = true;
 				displayBackground = false;
-				GetComponent<GUITexture>().enabled = false;
 			}
 		}
 	}
@@ -79,7 +79,7 @@ public class ControlMenu : MonoBehaviour
 		if (num >= 0)
 		{
 			selection = num;
-			GetComponent<GUITexture>().enabled = false;
+			GetComponent<Image>().enabled = false;
 			display = false;
 			displayBackground = false;
 			StartCoroutine(ChangeControls());

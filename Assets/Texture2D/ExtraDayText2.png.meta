@@ -1,12 +1,12 @@
 fileFormatVersion: 2
 guid: 4bd6d471129290843ae3b2b83f949e82
-timeCreated: 1633894754
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: ExtraDayText2
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ExtraDayText2
   externalObjects: {}
-  serializedVersion: 7
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -26,6 +26,7 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -60,8 +61,10 @@ TextureImporter:
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
   platformSettings:
-  - serializedVersion: 2
+  - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -72,6 +75,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -148,7 +152,7 @@ TextureImporter:
         - {x: 410, y: 26}
         - {x: 446, y: 17}
         - {x: 453, y: 9.999996}
-        - {x: 455, y: -3.814697E-06}
+        - {x: 455, y: -0.000003814697}
         - {x: 455, y: 6.999996}
         - {x: 457, y: 13}
         - {x: 471, y: 13}
@@ -247,10 +251,10 @@ TextureImporter:
         - {x: -96, y: -26.00001}
       - - {x: -478, y: -4.000004}
         - {x: -479, y: -2.000004}
-        - {x: -479, y: -3.814697E-06}
+        - {x: -479, y: -0.000003814697}
         - {x: -477, y: 1.999996}
         - {x: -466, y: 1.999996}
-        - {x: -464, y: -3.814697E-06}
+        - {x: -464, y: -0.000003814697}
         - {x: -464, y: 4.999996}
         - {x: -470, y: 6.999996}
         - {x: -476, y: 13}
@@ -378,7 +382,7 @@ TextureImporter:
         - {x: -292, y: -2.000004}
         - {x: -292, y: 11}
         - {x: -303, y: 15}
-        - {x: -308, y: -3.814697E-06}
+        - {x: -308, y: -0.000003814697}
         - {x: -308, y: 12}
         - {x: -322, y: 13}
         - {x: -328, y: 4.999996}
@@ -404,7 +408,7 @@ TextureImporter:
         - {x: -273, y: -12}
         - {x: -262, y: 5.999996}
         - {x: -262, y: 9.999996}
-      - - {x: -250, y: -3.814697E-06}
+      - - {x: -250, y: -0.000003814697}
         - {x: -250, y: 11}
         - {x: -260, y: 11}
         - {x: -267, y: 0.9999962}
@@ -442,7 +446,7 @@ TextureImporter:
         - {x: -159, y: -8.000004}
         - {x: -160, y: -5.000004}
         - {x: -151, y: 20}
-      - - {x: -143, y: -3.814697E-06}
+      - - {x: -143, y: -0.000003814697}
         - {x: -143, y: 11}
         - {x: -151, y: 11}
         - {x: -159, y: 6.999996}
@@ -525,7 +529,7 @@ TextureImporter:
         - {x: 190, y: 11}
         - {x: 183, y: 11}
         - {x: 179, y: 6.999996}
-        - {x: 179, y: -3.814697E-06}
+        - {x: 179, y: -0.000003814697}
         - {x: 175, y: 11}
         - {x: 157, y: 11}
         - {x: 152, y: 6.999996}
@@ -636,7 +640,7 @@ TextureImporter:
         - {x: 485, y: -13}
         - {x: 492, y: -13}
         - {x: 492, y: -4.000003}
-      - - {x: -81, y: -3.814697E-06}
+      - - {x: -81, y: -0.000003814697}
         - {x: -78.99999, y: -3.000004}
         - {x: -80, y: -4.000003}
         - {x: -81, y: -6.000004}
@@ -652,10 +656,10 @@ TextureImporter:
         - {x: 419, y: 0.9999962}
         - {x: 421, y: 4.999996}
         - {x: 420, y: -4.000003}
-      - - {x: -440, y: -3.814697E-06}
+      - - {x: -440, y: -0.000003814697}
         - {x: -438, y: 2.999996}
         - {x: -438, y: 0.9999962}
-        - {x: -439, y: -3.814697E-06}
+        - {x: -439, y: -0.000003814697}
         - {x: -440, y: -4.000003}
         - {x: -441, y: -5.000004}
       - - {x: -322, y: -4.000003}
@@ -666,24 +670,24 @@ TextureImporter:
         - {x: -207, y: 2.999996}
         - {x: -206, y: 3.999996}
         - {x: -207, y: 2.999996}
-        - {x: -207, y: -3.814697E-06}
+        - {x: -207, y: -0.000003814697}
         - {x: -208, y: -1.000004}
       - - {x: -173, y: -1.000004}
-        - {x: -172, y: -3.814697E-06}
+        - {x: -172, y: -0.000003814697}
         - {x: -172, y: 1.999996}
         - {x: -170, y: 3.999996}
         - {x: -170, y: 4.999996}
         - {x: -171, y: 3.999996}
-        - {x: -171, y: -3.814697E-06}
+        - {x: -171, y: -0.000003814697}
         - {x: -172, y: -1.000004}
         - {x: -172, y: -3.000004}
         - {x: -174, y: -5.000004}
       - - {x: -135, y: -2.000004}
         - {x: -135, y: -5.000004}
-      - - {x: 66, y: -3.814697E-06}
+      - - {x: 66, y: -0.000003814697}
         - {x: 67.99999, y: 2.999996}
         - {x: 67.99999, y: 0.9999962}
-        - {x: 67, y: -3.814697E-06}
+        - {x: 67, y: -0.000003814697}
         - {x: 66, y: -4.000003}
         - {x: 65, y: -5.000004}
       - - {x: 211, y: -3.000004}
@@ -691,7 +695,7 @@ TextureImporter:
         - {x: 214, y: 3.999996}
         - {x: 214, y: 4.999996}
         - {x: 213, y: 3.999996}
-        - {x: 213, y: -3.814697E-06}
+        - {x: 213, y: -0.000003814697}
         - {x: 212, y: -1.000004}
         - {x: 212, y: -3.000004}
         - {x: 210, y: -5.000004}
@@ -721,21 +725,24 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 589eab4f9293478c988a7d091f5119f8
+      internalID: 21300000
       vertices: []
-      indices:
+      indices: 
       edges: []
       weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID:
+    spriteID: 
+    internalID: 0
     vertices: []
-    indices:
+    indices: 
     edges: []
     weights: []
-  spritePackingTag:
+    secondaryTextures: []
+  spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
-  userData:
-  assetBundleName:
-  assetBundleVariant:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

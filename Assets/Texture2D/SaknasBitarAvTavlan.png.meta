@@ -1,12 +1,12 @@
 fileFormatVersion: 2
 guid: 98e576064607eb84285ce97518e7ba9b
-timeCreated: 1633894760
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: SaknasBitarAvTavlan
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: SaknasBitarAvTavlan
   externalObjects: {}
-  serializedVersion: 7
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -26,6 +26,7 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -60,8 +61,10 @@ TextureImporter:
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
   platformSettings:
-  - serializedVersion: 2
+  - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -72,6 +75,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -165,7 +169,7 @@ TextureImporter:
         - {x: 397.5247, y: 24.00001}
         - {x: 432.5247, y: 24.00001}
         - {x: 436.5247, y: 5.000008}
-        - {x: 436.5247, y: 7.629395E-06}
+        - {x: 436.5247, y: 0.000007629395}
         - {x: 447.5247, y: 25.00001}
         - {x: 484.5247, y: 25.00001}
         - {x: 484.5247, y: -14.99999}
@@ -312,7 +316,7 @@ TextureImporter:
         - {x: 473.5246, y: -18.99999}
       - - {x: -58.47534, y: -24.99999}
         - {x: -43.47534, y: -6.999992}
-        - {x: -42.47534, y: 7.629395E-06}
+        - {x: -42.47534, y: 0.000007629395}
         - {x: -42.47534, y: 20.00001}
         - {x: -44.47534, y: 23.00001}
         - {x: -57.47534, y: 23.00001}
@@ -345,7 +349,7 @@ TextureImporter:
         - {x: -484.4753, y: 43.00001}
         - {x: -499.4753, y: 26.00001}
         - {x: -499.4753, y: 5.000008}
-        - {x: -489.4753, y: 7.629395E-06}
+        - {x: -489.4753, y: 0.000007629395}
         - {x: -484.4753, y: 4.000008}
         - {x: -488.4753, y: 21.00001}
         - {x: -483.4753, y: 30.00001}
@@ -394,7 +398,7 @@ TextureImporter:
         - {x: -356.4753, y: 23.00001}
         - {x: -372.4753, y: 23.00001}
         - {x: -383.4753, y: 15.00001}
-        - {x: -388.4753, y: 7.629395E-06}
+        - {x: -388.4753, y: 0.000007629395}
         - {x: -388.4753, y: -26.99999}
         - {x: -368.4753, y: -26.99999}
         - {x: -353.4753, y: -13.99999}
@@ -479,7 +483,7 @@ TextureImporter:
         - {x: 108.5247, y: 21.00001}
         - {x: 107.5247, y: 23.00001}
         - {x: 79.52465, y: 23.00001}
-        - {x: 71.52466, y: 7.629395E-06}
+        - {x: 71.52466, y: 0.000007629395}
         - {x: 71.52466, y: -26.99999}
         - {x: 89.52466, y: -26.99999}
         - {x: 101.5247, y: -23.99999}
@@ -498,7 +502,7 @@ TextureImporter:
         - {x: 139.5247, y: -26.99999}
         - {x: 148.5247, y: -4.999992}
         - {x: 148.5247, y: 7.000007}
-      - - {x: 239.5246, y: 7.629395E-06}
+      - - {x: 239.5246, y: 0.000007629395}
         - {x: 241.5246, y: 7.000007}
         - {x: 242.5246, y: 11.00001}
         - {x: 242.5246, y: 20.00001}
@@ -515,7 +519,7 @@ TextureImporter:
         - {x: 186.5247, y: -26.99999}
         - {x: 190.5247, y: -26.99999}
         - {x: 192.5247, y: -23.99999}
-        - {x: 197.5246, y: 7.629395E-06}
+        - {x: 197.5246, y: 0.000007629395}
         - {x: 207.5247, y: 10.00001}
         - {x: 200.5247, y: -23.99999}
         - {x: 202.5247, y: -25.99999}
@@ -580,9 +584,9 @@ TextureImporter:
         - {x: 374.5247, y: -25.99999}
         - {x: 382.5247, y: -16.99999}
         - {x: 382.5247, y: -11.99999}
-        - {x: 379.5247, y: 7.629395E-06}
+        - {x: 379.5247, y: 0.000007629395}
       - - {x: 430.5247, y: -10.99999}
-        - {x: 430.5247, y: 7.629395E-06}
+        - {x: 430.5247, y: 0.000007629395}
         - {x: 432.5247, y: 21.00001}
         - {x: 430.5247, y: 23.00001}
         - {x: 421.5246, y: 23.00001}
@@ -702,21 +706,24 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2afe3527de23451d86a1054679def928
+      internalID: 21300000
       vertices: []
-      indices:
+      indices: 
       edges: []
       weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID:
+    spriteID: 
+    internalID: 0
     vertices: []
-    indices:
+    indices: 
     edges: []
     weights: []
-  spritePackingTag:
+    secondaryTextures: []
+  spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
-  userData:
-  assetBundleName:
-  assetBundleVariant:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

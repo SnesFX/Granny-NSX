@@ -1,12 +1,12 @@
 fileFormatVersion: 2
 guid: efab019701fac7949838ce7eb09e5574
-timeCreated: 1633894761
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: Day6TheLastDay
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Day6TheLastDay
   externalObjects: {}
-  serializedVersion: 7
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -26,6 +26,7 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -60,8 +61,10 @@ TextureImporter:
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
   platformSettings:
-  - serializedVersion: 2
+  - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -72,6 +75,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -140,7 +144,7 @@ TextureImporter:
         - {x: -46.99994, y: 197.0124}
       - - {x: -47.99994, y: 14.01239}
         - {x: -48.99994, y: 15.01239}
-        - {x: 6.103516E-05, y: 239.0124}
+        - {x: 0.00006103516, y: 239.0124}
         - {x: -49.99994, y: 306.0124}
         - {x: -49.99994, y: 310.0124}
         - {x: -46.99994, y: 313.0124}
@@ -3117,21 +3121,24 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1836b8475e4e4ad687117efef93c1c02
+      internalID: 21300000
       vertices: []
-      indices:
+      indices: 
       edges: []
       weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID:
+    spriteID: 
+    internalID: 0
     vertices: []
-    indices:
+    indices: 
     edges: []
     weights: []
-  spritePackingTag:
+    secondaryTextures: []
+  spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
-  userData:
-  assetBundleName:
-  assetBundleVariant:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

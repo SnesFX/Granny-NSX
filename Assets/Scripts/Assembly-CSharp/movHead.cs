@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using UnityEngine;
+using UnityEngine.UI;
 
 [Serializable]
 public class movHead : MonoBehaviour
@@ -9,17 +10,13 @@ public class movHead : MonoBehaviour
 
 	public Texture headL;
 
-	public GUITexture head;
+	public Image head;
 
 	private bool headMove;
 
 	public virtual IEnumerator Start()
 	{
-		head.GetComponent<GUITexture>().texture = headR;
 		yield return new WaitForSeconds(10f);
-		head.GetComponent<GUITexture>().texture = headL;
-		yield return new WaitForSeconds(10f);
-		head.GetComponent<GUITexture>().texture = headR;
 		headMove = true;
 	}
 
@@ -35,9 +32,6 @@ public class movHead : MonoBehaviour
 	public virtual IEnumerator moveHead()
 	{
 		yield return new WaitForSeconds(10f);
-		head.GetComponent<GUITexture>().texture = headL;
-		yield return new WaitForSeconds(10f);
-		head.GetComponent<GUITexture>().texture = headR;
 		headMove = true;
 	}
 }
