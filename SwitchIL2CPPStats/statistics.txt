@@ -1,0 +1,209 @@
+----IL2CPP Arguments----
+--convert-to-cpp --enable-array-bounds-check --dotnetprofile=unityaot --compile-cpp --platform=Switch --architecture=ARM64 --configuration=Release --outputpath=C:\Users\YoPhlox\Documents\GitHub\Granny-NSX\Temp\StagingArea\Native\SwitchPlayer.nss --cachedirectory=C:/Users/YoPhlox/Documents/GitHub/Granny-NSX/Assets/../SwitchIL2CPPCache/il2cpp_cache --linker-flags=-nC:\Users\YoPhlox\Documents\GitHub\Granny-NSX\Application.aarch64.lp64.nmeta --plugin=C:/Program Files/UnityNX/Editor/Data/PlaybackEngines/Switch/Tools\Il2CppPlugin.dll --additional-include-directories=C:\Program Files\UnityNX\Editor\Data\PlaybackEngines\Switch\Tools/il2cpp\bdwgc/include --additional-include-directories=C:\Program Files\UnityNX\Editor\Data\PlaybackEngines\Switch\Tools/il2cpp\libil2cpp/include --baselib-directory=C:\Program Files\UnityNX\Editor\Data\PlaybackEngines\Switch\Native\release --avoid-dynamic-library-copy --verbose --enable-stats --stats-output-dir=C:/Users/YoPhlox/Documents/GitHub/Granny-NSX/Assets/../SwitchIL2CPPStats --libil2cpp-static --additional-defines=DEBUGMODE=0,UNITY_RELEASE=1,IL2CPP_USE_SOCKET_MULTIPLEX_IO=1 --configuration=ReleasePlus --incremental-g-c-time-slice=3 --profiler-report --map-file-parser=C:/Program Files/UnityNX/Editor/Data/Tools/MapFileParser/MapFileParser.exe --directory=C:/Users/YoPhlox/Documents/GitHub/Granny-NSX/Temp/StagingArea/Managed --generatedcppdir=C:/Users/YoPhlox/Documents/GitHub/Granny-NSX/Temp/StagingArea/il2cppOutput
+
+----Assemblies Converted-----
+	C:\Users\YoPhlox\Documents\GitHub\Granny-NSX\Temp\StagingArea\Managed\Assembly-CSharp.dll
+	C:\Users\YoPhlox\Documents\GitHub\Granny-NSX\Temp\StagingArea\Managed\Mono.Security.dll
+	C:\Users\YoPhlox\Documents\GitHub\Granny-NSX\Temp\StagingArea\Managed\mscorlib.dll
+	C:\Users\YoPhlox\Documents\GitHub\Granny-NSX\Temp\StagingArea\Managed\System.Configuration.dll
+	C:\Users\YoPhlox\Documents\GitHub\Granny-NSX\Temp\StagingArea\Managed\System.Core.dll
+	C:\Users\YoPhlox\Documents\GitHub\Granny-NSX\Temp\StagingArea\Managed\System.dll
+	C:\Users\YoPhlox\Documents\GitHub\Granny-NSX\Temp\StagingArea\Managed\System.Xml.dll
+	C:\Users\YoPhlox\Documents\GitHub\Granny-NSX\Temp\StagingArea\Managed\UnityEngine.AIModule.dll
+	C:\Users\YoPhlox\Documents\GitHub\Granny-NSX\Temp\StagingArea\Managed\UnityEngine.AndroidJNIModule.dll
+	C:\Users\YoPhlox\Documents\GitHub\Granny-NSX\Temp\StagingArea\Managed\UnityEngine.AnimationModule.dll
+	C:\Users\YoPhlox\Documents\GitHub\Granny-NSX\Temp\StagingArea\Managed\UnityEngine.AssetBundleModule.dll
+	C:\Users\YoPhlox\Documents\GitHub\Granny-NSX\Temp\StagingArea\Managed\UnityEngine.AudioModule.dll
+	C:\Users\YoPhlox\Documents\GitHub\Granny-NSX\Temp\StagingArea\Managed\UnityEngine.CoreModule.dll
+	C:\Users\YoPhlox\Documents\GitHub\Granny-NSX\Temp\StagingArea\Managed\UnityEngine.DirectorModule.dll
+	C:\Users\YoPhlox\Documents\GitHub\Granny-NSX\Temp\StagingArea\Managed\UnityEngine.dll
+	C:\Users\YoPhlox\Documents\GitHub\Granny-NSX\Temp\StagingArea\Managed\UnityEngine.GridModule.dll
+	C:\Users\YoPhlox\Documents\GitHub\Granny-NSX\Temp\StagingArea\Managed\UnityEngine.IMGUIModule.dll
+	C:\Users\YoPhlox\Documents\GitHub\Granny-NSX\Temp\StagingArea\Managed\UnityEngine.InputLegacyModule.dll
+	C:\Users\YoPhlox\Documents\GitHub\Granny-NSX\Temp\StagingArea\Managed\UnityEngine.InputModule.dll
+	C:\Users\YoPhlox\Documents\GitHub\Granny-NSX\Temp\StagingArea\Managed\UnityEngine.ParticleSystemModule.dll
+	C:\Users\YoPhlox\Documents\GitHub\Granny-NSX\Temp\StagingArea\Managed\UnityEngine.Physics2DModule.dll
+	C:\Users\YoPhlox\Documents\GitHub\Granny-NSX\Temp\StagingArea\Managed\UnityEngine.PhysicsModule.dll
+	C:\Users\YoPhlox\Documents\GitHub\Granny-NSX\Temp\StagingArea\Managed\UnityEngine.SharedInternalsModule.dll
+	C:\Users\YoPhlox\Documents\GitHub\Granny-NSX\Temp\StagingArea\Managed\UnityEngine.SpriteShapeModule.dll
+	C:\Users\YoPhlox\Documents\GitHub\Granny-NSX\Temp\StagingArea\Managed\UnityEngine.SubsystemsModule.dll
+	C:\Users\YoPhlox\Documents\GitHub\Granny-NSX\Temp\StagingArea\Managed\UnityEngine.SwitchModule.dll
+	C:\Users\YoPhlox\Documents\GitHub\Granny-NSX\Temp\StagingArea\Managed\UnityEngine.TerrainModule.dll
+	C:\Users\YoPhlox\Documents\GitHub\Granny-NSX\Temp\StagingArea\Managed\UnityEngine.TerrainPhysicsModule.dll
+	C:\Users\YoPhlox\Documents\GitHub\Granny-NSX\Temp\StagingArea\Managed\UnityEngine.TextRenderingModule.dll
+	C:\Users\YoPhlox\Documents\GitHub\Granny-NSX\Temp\StagingArea\Managed\UnityEngine.TilemapModule.dll
+	C:\Users\YoPhlox\Documents\GitHub\Granny-NSX\Temp\StagingArea\Managed\UnityEngine.UI.dll
+	C:\Users\YoPhlox\Documents\GitHub\Granny-NSX\Temp\StagingArea\Managed\UnityEngine.UIElementsNativeModule.dll
+	C:\Users\YoPhlox\Documents\GitHub\Granny-NSX\Temp\StagingArea\Managed\UnityEngine.UIModule.dll
+	C:\Users\YoPhlox\Documents\GitHub\Granny-NSX\Temp\StagingArea\Managed\UnityEngine.UnityWebRequestModule.dll
+	C:\Users\YoPhlox\Documents\GitHub\Granny-NSX\Temp\StagingArea\Managed\UnityEngine.VFXModule.dll
+	C:\Users\YoPhlox\Documents\GitHub\Granny-NSX\Temp\StagingArea\Managed\UnityEngine.VideoModule.dll
+	C:\Users\YoPhlox\Documents\GitHub\Granny-NSX\Temp\StagingArea\Managed\UnityEngine.VRModule.dll
+	C:\Users\YoPhlox\Documents\GitHub\Granny-NSX\Temp\StagingArea\Managed\UnityEngine.XRModule.dll
+
+----- il2cpp Statistics -----
+General:
+	Conversion Time: 23.743 s
+	Files Written: 136
+	String Literals: 4079
+Methods:
+	Total Methods: 23857
+	Non-Generic Methods: 18154
+	Generic Type Methods: 4478
+	Generic Methods: 1225
+	Shared Methods: 5698
+	Methods with Tail Calls : 0
+Metadata:
+	Total: 2,760.63 kb
+	String Literals: 31.87 kb
+	String Literal Data: 94.42 kb
+	Metadata Strings: 428.17 kb
+	Events: 0.42 kb
+	Properties: 55.62 kb
+	Methods: 609.75 kb
+	Parameter Default Values: 0.73 kb
+	Field Default Values: 61.21 kb
+	Field and Parameter Default Values Data: 74.34 kb
+	Field Marshaled Sizes: 17.58 kb
+	Parameters: 258.66 kb
+	Fields: 179.29 kb
+	Generic Parameters: 5.47 kb
+	Generic Parameter Constraints: 0.17 kb
+	Generic Containers: 4.41 kb
+	Nested Types: 2.95 kb
+	Interfaces: 5.45 kb
+	VTables: 128.62 kb
+	Interface Offsets: 27.00 kb
+	Type Definitions: 314.99 kb
+	Images: 1.48 kb
+	Assemblies: 2.52 kb
+	Metadata Usage Lists: 78.95 kb
+	Metadata Usage Pairs: 262.69 kb
+	Field Refs: 0.83 kb
+	Referenced Assemblies: 0.74 kb
+	Attribute Types Ranges: 62.32 kb
+	Attribute Types: 40.91 kb
+	Unresolved Virtual Call Parameter Types: 3.63 kb
+	Unresolved Virtual Call Parameter Ranges: 2.39 kb
+	Windows Runtime type names: 0.00 kb
+	Exported Types: 3.07 kb
+Codegen:
+	NullChecks : 0
+Interop:
+	Windows Runtime boxed types : 0
+	Windows Runtime types with names : 0
+	Native to managed interface adapters : 0
+	Array COM callable wrappers : 0
+	COM callable wrappers : 0
+	COM callable wrapper methods that were implemented : 0
+	COM callable wrapper methods that were stripped : 0
+	COM callable wrapper methods that were forwarded to call base class method : 0
+Compilation:
+	Total Files: 206
+	Files Compiled: 206
+	Cache Hits: 0
+	Cache Hit %: 0
+
+
+----Assembly Conversion Times----
+
+----Misc Timing----
+	PreProcessStage: 298.785400390625
+	GenericsCollector.Collect: None
+	WriteGenerics: 2767.01171875
+	AllAssemblyConversion: 15950.8740234375
+
+----Generated Files----
+Assembly-CSharp.cpp	2793877
+Assembly-CSharp1.cpp	3645854
+Assembly-CSharp2.cpp	4567277
+Assembly-CSharp3.cpp	2336543
+Assembly-CSharp4.cpp	1660939
+Assembly-CSharp5.cpp	2896283
+Assembly-CSharp6.cpp	2687945
+Assembly-CSharp7.cpp	2427488
+Assembly-CSharp8.cpp	2412553
+Assembly-CSharp9.cpp	47476
+GenericMethods.cpp	1621946
+GenericMethods1.cpp	1839696
+GenericMethods2.cpp	1545879
+Generics.cpp	1351739
+Generics1.cpp	1616603
+Generics2.cpp	1900958
+Generics3.cpp	1635397
+Generics4.cpp	1902517
+Generics5.cpp	1647308
+Generics6.cpp	1386219
+Generics7.cpp	1656317
+Generics8.cpp	220297
+Il2CppAttributes.cpp	5686451
+Il2CppCodeRegistration.cpp	6224
+Il2CppCompilerCalculateTypeValues.cpp	4476902
+Il2CppCompilerCalculateTypeValues1.cpp	4976722
+Il2CppCompilerCalculateTypeValuesTable.cpp	532613
+Il2CppGenericComDefinitions.cpp	173
+Il2CppGenericMethodPointerTable.cpp	1420931
+Il2CppInteropDataTable.cpp	213482
+Il2CppInvokerTable.cpp	3136451
+Il2CppReversePInvokeWrapperTable.cpp	2450
+Mono.Security.cpp	138068
+mscorlib.cpp	2231700
+mscorlib1.cpp	2185246
+mscorlib10.cpp	1981530
+mscorlib11.cpp	2096523
+mscorlib12.cpp	2125631
+mscorlib13.cpp	1893471
+mscorlib14.cpp	2209796
+mscorlib15.cpp	1476963
+mscorlib2.cpp	2228388
+mscorlib3.cpp	1884830
+mscorlib4.cpp	1689849
+mscorlib5.cpp	1973212
+mscorlib6.cpp	2171853
+mscorlib7.cpp	1977560
+mscorlib8.cpp	2092251
+mscorlib9.cpp	2425205
+System.Configuration.cpp	51383
+System.Core.cpp	21492
+System.cpp	1716899
+System.Xml.cpp	5761
+System1.cpp	1337828
+UnityEngine.AIModule.cpp	73173
+UnityEngine.AndroidJNIModule.cpp	560415
+UnityEngine.AnimationModule.cpp	290301
+UnityEngine.AssetBundleModule.cpp	28674
+UnityEngine.AudioModule.cpp	130256
+UnityEngine.CoreModule.cpp	1847404
+UnityEngine.CoreModule1.cpp	1961133
+UnityEngine.CoreModule2.cpp	583658
+UnityEngine.cpp	3263
+UnityEngine.DirectorModule.cpp	22440
+UnityEngine.GridModule.cpp	5245
+UnityEngine.IMGUIModule.cpp	1153353
+UnityEngine.InputLegacyModule.cpp	158382
+UnityEngine.InputModule.cpp	50326
+UnityEngine.ParticleSystemModule.cpp	148621
+UnityEngine.Physics2DModule.cpp	175559
+UnityEngine.PhysicsModule.cpp	274584
+UnityEngine.SharedInternalsModule.cpp	169150
+UnityEngine.SpriteShapeModule.cpp	4711
+UnityEngine.SubsystemsModule.cpp	116546
+UnityEngine.SwitchModule.cpp	91787
+UnityEngine.TerrainModule.cpp	273645
+UnityEngine.TerrainPhysicsModule.cpp	4699
+UnityEngine.TextRenderingModule.cpp	209222
+UnityEngine.TilemapModule.cpp	79021
+UnityEngine.UI.cpp	2161086
+UnityEngine.UI1.cpp	1799137
+UnityEngine.UI2.cpp	2033447
+UnityEngine.UI3.cpp	1065873
+UnityEngine.UIElementsNativeModule.cpp	106022
+UnityEngine.UIModule.cpp	217137
+UnityEngine.UnityWebRequestModule.cpp	60634
+UnityEngine.VFXModule.cpp	52298
+UnityEngine.VideoModule.cpp	88761
+UnityEngine.VRModule.cpp	18872
+UnityEngine.XRModule.cpp	255368
+UnlinkedFunctions.cpp	574
+UnresolvedVirtualCallStubs.cpp	301655
+
